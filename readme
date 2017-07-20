@@ -1,0 +1,2 @@
+1. Use mySQL code create_db.sql to create the schema 'employees' and fill it with data.
+2. Set up tomcat/apache server to host application.
