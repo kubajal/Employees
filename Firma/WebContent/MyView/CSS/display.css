@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+table{
+    table-layout: fixed;
+    width: 1000px;
+}
+
+form {
+	display: table;
+	5px;
+}
+
+p {
+	display: table-row;
+	
+}
+
+label {
+	display: table-cell;
+}
+
+input {
+	display: table-cell;
+}
